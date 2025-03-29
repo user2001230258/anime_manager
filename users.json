@@ -1,0 +1,24 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "admin",
+        "favorites": [
+            "Gintama",
+            "Kaguya-sama wa Kokurasetai: Ultra Romantic"
+        ]
+    },
+    "user": {
+        "password": "user123",
+        "role": "user",
+        "favorites": [
+            "Gintama\u00b0",
+            "Dragon Ball Z Movie 07: Kyokugen Battle!! Sandai Super Saiyajin",
+            "Dragon Ball"
+        ]
+    },
+    "hvhoan123": {
+        "password": "123",
+        "role": "user",
+        "favorites": []
+    }
+}
