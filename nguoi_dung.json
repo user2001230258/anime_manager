@@ -1,0 +1,12 @@
+{
+    "admin": {
+        "mat_khau": "admin123",
+        "vai_tro": "admin",
+        "yeu_thich": []
+    },
+    "hvhoan": {
+        "mat_khau": "123",
+        "vai_tro": "nguoi_dung",
+        "yeu_thich": []
+    }
+}
